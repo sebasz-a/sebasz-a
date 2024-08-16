@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hola 👋
+Mi nombre es Sebastián, soy estudiante del programa de Ingeniería de Sistemas e informática de la facultad de Minas de la UNAL sede Medellín y estoy adentrandome poco a poco en el mundo de la computación y la informática.
 
 <!--
 **sebasz-a/sebasz-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
