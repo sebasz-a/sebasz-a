@@ -1,5 +1,5 @@
 ## Hola 👋
-Mi nombre es Sebastián, soy estudiante del programa de Ingeniería de Sistemas e informática de la facultad de Minas de la UNAL sede Medellín y aveces me gusta programar.
+Mi nombre es Sebastián, soy estudiante del programa de Ingeniería de Sistemas e informática de la facultad de Minas de la UNAL sede Medellín y a veces me gusta programar.
 
 <!--
 **sebasz-a/sebasz-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
